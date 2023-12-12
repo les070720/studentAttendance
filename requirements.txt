@@ -1,5 +1,5 @@
-asgiref==3.2.10
-Django==3.0.7
+asgiref==3.7.2
+Django
 django-extensions==3.0.2
 graphviz==0.14
 mysql-connector-python==8.0.20
@@ -8,4 +8,5 @@ pydot==1.4.1
 pyparsing==2.4.7
 pytz==2020.1
 six==1.15.0
-sqlparse==0.3.1
+sqlparse==0.4.4
+tzdata==2023.3
